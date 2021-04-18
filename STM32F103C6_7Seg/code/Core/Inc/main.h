@@ -66,8 +66,6 @@ void Error_Handler(void);
 #define SEG_C_GPIO_Port GPIOA
 #define SEG_D_Pin GPIO_PIN_4
 #define SEG_D_GPIO_Port GPIOA
-#define SEG_E_Pin GPIO_PIN_5
-#define SEG_E_GPIO_Port GPIOA
 #define SEG_F_Pin GPIO_PIN_6
 #define SEG_F_GPIO_Port GPIOA
 #define SEG_G_Pin GPIO_PIN_7
@@ -76,6 +74,8 @@ void Error_Handler(void);
 #define Up_Button_GPIO_Port GPIOB
 #define Down_Button_Pin GPIO_PIN_1
 #define Down_Button_GPIO_Port GPIOB
+#define SEG_E_Pin GPIO_PIN_9
+#define SEG_E_GPIO_Port GPIOC
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
