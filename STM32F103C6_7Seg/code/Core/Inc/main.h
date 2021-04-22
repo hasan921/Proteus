@@ -66,16 +66,16 @@ void Error_Handler(void);
 #define SEG_C_GPIO_Port GPIOA
 #define SEG_D_Pin GPIO_PIN_4
 #define SEG_D_GPIO_Port GPIOA
+#define SEG_E_Pin GPIO_PIN_5
+#define SEG_E_GPIO_Port GPIOA
 #define SEG_F_Pin GPIO_PIN_6
 #define SEG_F_GPIO_Port GPIOA
 #define SEG_G_Pin GPIO_PIN_7
 #define SEG_G_GPIO_Port GPIOA
-#define Up_Button_Pin GPIO_PIN_0
-#define Up_Button_GPIO_Port GPIOB
-#define Down_Button_Pin GPIO_PIN_1
-#define Down_Button_GPIO_Port GPIOB
-#define SEG_E_Pin GPIO_PIN_9
-#define SEG_E_GPIO_Port GPIOC
+#define DISPLAY_1_Pin GPIO_PIN_0
+#define DISPLAY_1_GPIO_Port GPIOB
+#define DISPLAY_2_Pin GPIO_PIN_1
+#define DISPLAY_2_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
